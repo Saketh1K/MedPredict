@@ -4,8 +4,6 @@
 
 Welcome to MedPredict, an innovative platform dedicated to advancing maternal and fetal health through predictive analysis. MedPredict empowers healthcare professionals and users alike by providing accurate predictions and proactive risk management related to pregnancy.
 
-### Webapp URL
-MedPredict: [MedPredict link](https://maternalcare-cbupxflodo4uhz8hzqqqng.streamlit.app/)
 
 ## Key Features
 
